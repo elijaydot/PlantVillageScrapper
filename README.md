@@ -1,4 +1,4 @@
-# PlantVillage Scraper 🌿
+# PlantVillage Scraper
 
 A simple yet powerful Python script to scrape comprehensive plant information, including diseases and pests, from the [PlantVillage](https://plantvillage.psu.edu/) website. The data is saved locally as a structured JSON file, perfect for agricultural data analysis, research, or building a plant care application.
 
